@@ -1027,9 +1027,9 @@ button, input, textarea:focus {
 	position: relative;
 	z-index: 1;
 }
-/* .atf-white-logo img{
-	width: 150px;
-} */
+.atf-white-logo img{
+	width: 60px;
+}
 .atf-waves-home{
 	background-position: 50% 0;
 	background-repeat: no-repeat;
