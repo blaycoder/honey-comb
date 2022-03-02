@@ -119,6 +119,12 @@ img {
 	height: auto;
 	border: 0;
 }
+
+.atf-program-image img {
+	max-width: 60%;
+	height:auto;
+	border: 0;
+}
 a {
 text-decoration: none;
 transition: all 0.2s ease 0s;
